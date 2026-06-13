@@ -1,3 +1,3 @@
 # ab-experiment-platform
-live- demoe- Streamlit App
+live- demo- Streamlit App
 https://ab-experiment-platform.streamlit.app/
