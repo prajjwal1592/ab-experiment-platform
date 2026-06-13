@@ -1,0 +1,10 @@
+[theme]
+# Deliberate analytical palette - calm indigo + warm accent, not Streamlit red.
+primaryColor = "#5B6CF0"
+backgroundColor = "#FBFBFD"
+secondaryBackgroundColor = "#F1F2F8"
+textColor = "#1A1C2B"
+font = "sans serif"
+
+[server]
+headless = true
