@@ -58,15 +58,11 @@ scanned, so at production scale (billions of rows) this is a direct cost and lat
 win. At 2M rows partitioning isn't strictly necessary — the table is built the way it
 would be at 2B rows, and the pruning benefit is measured rather than assumed.
 
-<!-- 
 <img width="436" height="260" alt="image" src="https://github.com/user-attachments/assets/d3c8920e-fd8d-4a99-8414-2ebdcbc674fb" />
-
-
 <img width="397" height="263" alt="image" src="https://github.com/user-attachments/assets/1a482909-b83b-4c82-9c4a-d9b70c25c5a5" />
 
-     screenshot 1 = events_flat (20.48 MB), screenshot 2 = events_partitioned (2.78 MB).
-    
-
+ screenshot 1 = events_flat (20.48 MB), screenshot 2 = events_partitioned (2.78 MB).
+  
 ## Repo structure
 
 ```
