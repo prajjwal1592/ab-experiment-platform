@@ -1,4 +1,4 @@
-<img width="397" height="263" alt="image" src="https://github.com/user-attachments/assets/ae2516d7-1c14-4c0f-8dbf-5eaff61b2da2" /># ab-experiment-platform
+
 live- demo- Streamlit App
 https://ab-experiment-platform.streamlit.app/
 
